@@ -13,9 +13,10 @@ Ademais, foram utilizadas as seguintes bibliotecas:
     tweepy           3.10.0
 
 Por fim, é válido mencionar:
-    As credenciais de acesso utilizadas para desenvolver este projeto foram removidas ao salvar o projeto no repositório.
-    Para fazer uso do projeto, é necessário que sejam instanciadas as variáveis CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY e ACCESS_SECRET.
-    Estas variáveis devem ser apenas strings contendo os códigos correspondentes.
+
+  As credenciais de acesso utilizadas para desenvolver este projeto foram removidas ao salvar o projeto no repositório.
+  Para fazer uso do projeto, é necessário que sejam instanciadas as variáveis CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY e ACCESS_SECRET.
+  Estas variáveis devem ser apenas strings contendo os códigos correspondentes.
             
 
 
