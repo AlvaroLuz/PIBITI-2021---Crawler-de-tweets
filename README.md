@@ -4,13 +4,13 @@ Este projeto consiste de um script em python 3.9 que cumpre a função de Crawle
 Recursos utilizados:
 Para o desenvolvimento desse projeto, foi utilizada a linguagem de programação:
                 
-                python -> Versão 3.9.5
+    python -> Versão 3.9.5
 
 Ademais, foram utilizadas as seguintes bibliotecas:
             
-            Biblioteca   ||  Versão
-            pandas           1.2.4
-            tweepy           3.10.0
+    Biblioteca   ||  Versão
+    pandas           1.2.4
+    tweepy           3.10.0
 
 Por fim, é válido mencionar:
     As credenciais de acesso utilizadas para desenvolver este projeto foram removidas ao salvar o projeto no repositório.
